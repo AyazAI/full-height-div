@@ -1,0 +1,22 @@
+body {
+  background: orange;
+}
+
+.container {
+  background-color: rgb(241, 237, 232);
+  box-sizing: border-box;
+  min-height: 100%;
+  padding: 20px;
+
+  /* padding: 20px;
+  margin: 20px; */
+
+  /* display: block; */
+  /* overflow: auto; */
+}
+
+.box {
+  background-color: black;
+  color: white;
+  padding: 100px;
+}
